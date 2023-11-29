@@ -10,5 +10,5 @@ My first repository
 >> - Bungo Stray Dogs
 
 >> ### BOOKS
->> - Before the Coffee gets Cold (All books)
+>> - Before the Coffee Gets Cold (All books)
 >> - The Miracles of Namiya General Store
